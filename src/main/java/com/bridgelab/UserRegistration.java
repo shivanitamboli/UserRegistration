@@ -3,6 +3,7 @@ package com.bridgelab;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
 public class UserRegistration {
 	/*
 	 * Purpose: Boolean method to validate first and last name. Condition for regex
